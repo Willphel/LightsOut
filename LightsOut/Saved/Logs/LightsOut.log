@@ -3963,3 +3963,987 @@ Page
 [2022.03.16-06.45.44:639][296]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.16-06.45.44:639][296]LogContentValidation: Display: Validating World /Game/BoilerRoom.BoilerRoom
 [2022.03.16-06.45.44:639][296]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BoilerRoom_BuiltData.BoilerRoom_BuiltData
+[2022.03.16-06.46.30:737][ 62]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.16-06.46.31:501][105]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.16-06.46.35:647][349]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.03.16-06.46.38:404][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.16-06.46.39:866][491]LogSlate: Window 'Save Content' being destroyed
+[2022.03.16-06.46.39:999][491]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/370189__238310__stationary-truck1646383248621DC44C92DF99407EA52C.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/370189__238310__stationary-truck.uasset'
+[2022.03.16-06.46.40:082][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.03.16-06.46.40:429][491]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/BoilerRoomA102659945A67B0709DE7CA2E0C8AB56.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BoilerRoom.umap'
+[2022.03.16-06.46.40:445][491]LogFileHelpers: Saving map 'BoilerRoom' took 0.442
+[2022.03.16-06.46.40:445][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/engine_sound_cue" FILE="../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/engine_sound_cue.uasset" SILENT=true
+[2022.03.16-06.46.40:447][491]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/engine_sound_cueD53733FC427769B539999E9EDD5802B1.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/engine_sound_cue.uasset'
+[2022.03.16-06.46.40:454][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/spotlight_on_noise" FILE="../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/spotlight_on_noise.uasset" SILENT=true
+[2022.03.16-06.46.40:457][491]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/spotlight_on_noiseB538D4614D37680A971EED9A52949D6D.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/spotlight_on_noise.uasset'
+[2022.03.16-06.46.40:502][491]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BreakerRoom.BreakerRoom
+[2022.03.16-06.46.40:503][491]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BreakerRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.16-06.46.40:503][491]LightingResults: New page: Lighting Build
+[2022.03.16-06.46.40:503][491]LoadErrors: New page: Loading map: BreakerRoom.umap
+[2022.03.16-06.46.40:533][491]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-06.46.40:533][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-06.46.40:579][491]LogWorld: UWorld::CleanupWorld for BoilerRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-06.46.40:580][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-06.46.40:580][491]MapCheck: New page: Map Check
+[2022.03.16-06.46.40:580][491]LightingResults: New page: Lighting Build
+[2022.03.16-06.46.40:604][491]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.16-06.46.40:620][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.03.16-06.46.40:625][491]LogAudio: Display: Audio Device (ID: 1) registered with world 'BreakerRoom'.
+[2022.03.16-06.46.40:648][491]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.16-06.46.40:648][491]LogAIModule: Creating AISystem for world BreakerRoom
+[2022.03.16-06.46.40:649][491]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-2386.799 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2022.03.16-06.46.40:681][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.03.16-06.46.40:696][491]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.16-06.46.40:697][491]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2022.03.16-06.46.40:697][491]LogFileHelpers: Loading map 'BreakerRoom' took 0.194
+[2022.03.16-06.46.40:729][491]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.16-06.46.40:729][491]LogContentValidation: Display: Validating SoundWave /Game/370189__238310__stationary-truck.370189__238310__stationary-truck
+[2022.03.16-06.46.40:729][491]LogContentValidation: Display: Validating SoundCue /Game/engine_sound_cue.engine_sound_cue
+[2022.03.16-06.46.40:729][491]LogContentValidation: Display: Validating SoundWave /Game/spotlight_on_noise.spotlight_on_noise
+[2022.03.16-06.46.40:729][491]LogContentValidation: Display: Validating World /Game/BoilerRoom.BoilerRoom
+[2022.03.16-06.46.57:160][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.03.16-06.46.58:971][441]LogSlate: Window 'Save Content' being destroyed
+[2022.03.16-06.46.59:047][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.03.16-06.46.59:097][441]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/BreakerRoom21C9C9D14D0F3A954CD05ABCAF6EEC2E.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BreakerRoom.umap'
+[2022.03.16-06.46.59:114][441]LogFileHelpers: Saving map 'BreakerRoom' took 0.094
+[2022.03.16-06.46.59:148][441]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BoilerRoom.BoilerRoom
+[2022.03.16-06.46.59:148][441]Cmd: MAP LOAD FILE="../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BoilerRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.16-06.46.59:148][441]LightingResults: New page: Lighting Build
+[2022.03.16-06.46.59:149][441]LoadErrors: New page: Loading map: BoilerRoom.umap
+[2022.03.16-06.46.59:151][441]LogWorld: UWorld::CleanupWorld for BreakerRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-06.46.59:151][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-06.46.59:151][441]MapCheck: New page: Map Check
+[2022.03.16-06.46.59:151][441]LightingResults: New page: Lighting Build
+[2022.03.16-06.46.59:175][441]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.16-06.46.59:180][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.03.16-06.46.59:181][441]LogAudio: Display: Audio Device (ID: 1) registered with world 'BoilerRoom'.
+[2022.03.16-06.46.59:213][441]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.16-06.46.59:214][441]LogAIModule: Creating AISystem for world BoilerRoom
+[2022.03.16-06.46.59:262][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.16-06.46.59:278][441]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.16-06.46.59:278][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.221ms to complete.
+[2022.03.16-06.46.59:278][441]LogFileHelpers: Loading map 'BoilerRoom' took 0.130
+[2022.03.16-06.46.59:314][441]AssetCheck: New page: Asset Save: BreakerRoom
+[2022.03.16-06.46.59:314][441]LogContentValidation: Display: Validating World /Game/BreakerRoom.BreakerRoom
+[2022.03.16-06.47.06:146][832]LogEditorViewport: Clicking on Actor (LMB): Flashlight_C (Flashlight)
+[2022.03.16-06.47.08:449][968]Cmd: DELETE
+[2022.03.16-06.47.08:449][968]Cmd: ACTOR DELETE
+[2022.03.16-06.47.14:599][968]LogSlate: Window 'Message' being destroyed
+[2022.03.16-06.47.14:620][968]Message dialog closed, result: Yes, title: Message, text: Actor Flashlight is referenced by the level blueprint.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+Flashlight
+[2022.03.16-06.47.14:626][968]LogEditorActor: Deleted Actor: Flashlight_C
+[2022.03.16-06.47.14:657][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.03.16-06.47.14:661][968]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2022.03.16-06.47.26:792][639]Cmd: DELETE
+[2022.03.16-06.47.26:792][639]Cmd: ACTOR DELETE
+[2022.03.16-06.47.26:823][639]LogEditorActor: Deleted Actor: SpotLight
+[2022.03.16-06.47.26:850][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.03.16-06.47.26:853][639]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.03.16-06.47.28:889][760]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2022.03.16-06.47.38:188][294]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight20)
+[2022.03.16-06.48.02:927][749]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2022.03.16-06.48.07:342][  3]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight20)
+[2022.03.16-06.48.32:573][467]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2022.03.16-06.48.50:695][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Warning)
+[2022.03.16-06.49.35:747][383]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2022.03.16-06.49.38:643][547]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (overhead_light)
+[2022.03.16-06.49.50:455][238]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2022.03.16-06.49.53:032][384]MapCheck: New page: Map Check
+[2022.03.16-06.49.53:058][384]Cmd: MAP REBUILD ALLVISIBLE
+[2022.03.16-06.49.53:059][384]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.03.16-06.49.56:448][384]LogWorld: UWorld::CleanupWorld for BoilerRoom, bSessionEnded=true, bCleanupResources=false
+[2022.03.16-06.49.56:550][384]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.03.16-06.49.56:550][384]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.03.16-06.49.56:550][384]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.03.16-06.49.56:551][384]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.03.16-06.49.56:555][384]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.03.16-06.49.56:585][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.03.16-06.49.56:644][384]LogLevel: Display: Export Material TexCoord Scales took 0.049 seconds.
+[2022.03.16-06.49.56:678][384]TextureStreamingBuild: Display: Build Texture Streaming took 0.034 seconds.
+[2022.03.16-06.49.56:701][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.16-06.49.56:703][384]LightingResults: New page: Lighting Build - Mar 15, 2022, 10:49:56 PM
+[2022.03.16-06.49.56:723][384]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.16-06.49.56:729][384]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.16-06.49.56:729][384]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.16-06.49.56:730][384]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.16-06.49.56:730][384]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20516
+[2022.03.16-06.50.01:311][384]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.16-06.50.01:314][384]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.16-06.50.01:314][384]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.16-06.50.01:314][384]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.16-06.50.01:314][384]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.16-06.50.01:314][384]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.16-06.50.01:561][384]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.03.16-06.50.01:561][384]MapCheck: New page: BoilerRoom - Mar 15, 2022, 10:50:01 PM
+[2022.03.16-06.50.01:561][384]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.03.16-06.50.01:563][384]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.072ms to complete.
+[2022.03.16-06.50.01:566][384]LogEditorBuildUtils: Build time 0:08
+[2022.03.16-06.50.01:633][384]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.16-06.50.01:633][384]LogShaderCompilers: Display: Total job queries 178, among them cache hits 63 (35.39%)
+[2022.03.16-06.50.01:633][384]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 61 distinct outputs (54.46%)
+[2022.03.16-06.50.01:633][384]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.03.16-06.50.01:633][384]LogShaderCompilers: Display: ================================================
+[2022.03.16-06.50.01:767][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.03.16-06.50.16:188][427]Job is a success!
+[2022.03.16-06.50.16:839][428]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.028s
+[2022.03.16-06.50.16:839][428]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.16-06.50.16:839][428]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.03.16-06.50.16:839][428]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.16-06.50.16:839][428]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2022.03.16-06.50.16:839][428]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2022.03.16-06.50.16:840][428]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.03.16-06.50.16:840][428]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.16-06.50.16:840][428]LogVolumetricLightmapImport:          BoilerRoom 			 3 bricks 	 100.0% (Persistent Level)
+[2022.03.16-06.50.17:236][428]LightingResults: Warning: SpotLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.16-06.50.17:236][428]LightingResults: Warning: SpotLight2_5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.16-06.50.17:474][428]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2022.03.16-06.50.17:474][428]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2022.03.16-06.50.17:475][428]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.03.16-06.50.17:475][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.16-06.50.17:475][428]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.03.16-06.50.17:475][428]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 512X512)
+[2022.03.16-06.50.17:475][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.16-06.50.17:475][428]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 512X512)
+[2022.03.16-06.50.17:663][428]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X256)
+[2022.03.16-06.50.17:663][428]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2022.03.16-06.50.17:663][428]Lightmass on DESKTOP-V1PNENV: 15.1 sec total, 592 ms importing, 623 ms setup, 3.40 sec photons, 10.4 sec processing, 0 ms extra exporting [2003/2003 mappings]. Threads: 1:54 min total, 50.9 sec processing.
+[2022.03.16-06.50.17:666][428]LogStaticLightingSystem: BoilerRoom_BuiltData storing lightmap data for 219 meshes in 6 LightmapResourceClusters (36.5 Meshes per cluster).
+[2022.03.16-06.50.17:701][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.03.16-06.50.17:744][428]LogStaticLightingSystem: Illumination: 20.6 sec (239 ms encoding lightmaps, 154 ms encoding shadowmaps)
+[2022.03.16-06.50.17:744][428]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (2.5 MB streaming, 0.5 MB non-streaming), 6 textures
+[2022.03.16-06.50.17:744][428]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 2 textures
+[2022.03.16-06.50.18:334][428]DumpUnbuiltLightIteractions
+[2022.03.16-06.50.18:334][428]Lights with unbuilt interactions: 0
+[2022.03.16-06.50.18:334][428]
+[2022.03.16-06.50.18:334][428]Primitives with unbuilt interactions: 0
+[2022.03.16-06.50.18:422][429]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.16-06.50.18:422][429]MapCheck: New page: BoilerRoom - Mar 15, 2022, 10:50:18 PM
+[2022.03.16-06.50.18:424][429]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.86ms to complete.
+[2022.03.16-06.51.21:064][415]LogSlate: Window 'Message Log' being destroyed
+[2022.03.16-06.51.21:073][415]LogSlate: Window 'Message Log' being destroyed
+[2022.03.16-06.51.25:278][650]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2022.03.16-06.51.27:518][781]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2022.03.16-06.51.27:897][801]LogEditorViewport: Clicking on Actor (context menu): SpotLight (SpotLight6)
+[2022.03.16-06.52.00:660][983]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight20)
+[2022.03.16-06.52.04:903][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lamp_Cone)
+[2022.03.16-06.52.05:425][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp)
+[2022.03.16-06.52.05:876][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp)
+[2022.03.16-06.52.06:522][320]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.03.16-06.52.10:610][559]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight6)
+[2022.03.16-06.52.25:779][450]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2022.03.16-06.52.35:491][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desk)
+[2022.03.16-06.52.36:432][ 58]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.03.16-06.52.56:132][172]MapCheck: New page: Map Check
+[2022.03.16-06.52.56:150][172]Cmd: MAP REBUILD ALLVISIBLE
+[2022.03.16-06.52.56:150][172]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.03.16-06.52.59:663][172]LogWorld: UWorld::CleanupWorld for BoilerRoom, bSessionEnded=true, bCleanupResources=false
+[2022.03.16-06.52.59:767][172]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.03.16-06.52.59:767][172]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.03.16-06.52.59:767][172]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.03.16-06.52.59:768][172]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.03.16-06.52.59:772][172]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.03.16-06.52.59:803][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.03.16-06.52.59:870][172]LogLevel: Display: Export Material TexCoord Scales took 0.056 seconds.
+[2022.03.16-06.52.59:902][172]TextureStreamingBuild: Display: Build Texture Streaming took 0.031 seconds.
+[2022.03.16-06.52.59:925][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.16-06.52.59:927][172]LightingResults: New page: Lighting Build - Mar 15, 2022, 10:52:59 PM
+[2022.03.16-06.52.59:946][172]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.16-06.52.59:950][172]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.16-06.52.59:950][172]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.16-06.52.59:951][172]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.16-06.52.59:951][172]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20516
+[2022.03.16-06.53.04:530][172]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.16-06.53.04:537][172]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.16-06.53.04:537][172]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.16-06.53.04:537][172]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.16-06.53.04:537][172]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.16-06.53.04:537][172]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.16-06.53.04:904][172]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.03.16-06.53.04:904][172]MapCheck: New page: BoilerRoom - Mar 15, 2022, 10:53:04 PM
+[2022.03.16-06.53.04:904][172]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.03.16-06.53.04:906][172]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.874ms to complete.
+[2022.03.16-06.53.04:908][172]LogEditorBuildUtils: Build time 0:08
+[2022.03.16-06.53.05:028][172]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.16-06.53.05:028][172]LogShaderCompilers: Display: Total job queries 178, among them cache hits 63 (35.39%)
+[2022.03.16-06.53.05:028][172]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 61 distinct outputs (54.46%)
+[2022.03.16-06.53.05:028][172]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.03.16-06.53.05:028][172]LogShaderCompilers: Display: ================================================
+[2022.03.16-06.53.05:244][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.16-06.53.21:025][219]Job is a success!
+[2022.03.16-06.53.21:697][220]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.036s
+[2022.03.16-06.53.21:697][220]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.16-06.53.21:697][220]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.03.16-06.53.21:697][220]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.16-06.53.21:697][220]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2022.03.16-06.53.21:698][220]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2022.03.16-06.53.21:698][220]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.03.16-06.53.21:698][220]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.16-06.53.21:698][220]LogVolumetricLightmapImport:          BoilerRoom 			 3 bricks 	 100.0% (Persistent Level)
+[2022.03.16-06.53.22:436][220]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.16-06.53.22:436][220]LightingResults: Warning: SpotLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.03.16-06.53.22:661][220]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2022.03.16-06.53.22:662][220]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2022.03.16-06.53.22:662][220]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.03.16-06.53.22:662][220]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.16-06.53.22:662][220]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 512X512)
+[2022.03.16-06.53.22:662][220]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.03.16-06.53.22:662][220]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 512X512)
+[2022.03.16-06.53.22:662][220]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.16-06.53.22:858][220]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X256)
+[2022.03.16-06.53.22:858][220]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2022.03.16-06.53.22:858][220]Lightmass on DESKTOP-V1PNENV: 16.8 sec total, 572 ms importing, 614 ms setup, 3.56 sec photons, 12.0 sec processing, 0 ms extra exporting [2003/2003 mappings]. Threads: 2:12 min total, 55.0 sec processing.
+[2022.03.16-06.53.22:861][220]LogStaticLightingSystem: BoilerRoom_BuiltData storing lightmap data for 219 meshes in 6 LightmapResourceClusters (36.5 Meshes per cluster).
+[2022.03.16-06.53.22:900][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.16-06.53.22:944][220]LogStaticLightingSystem: Illumination: 22.6 sec (228 ms encoding lightmaps, 162 ms encoding shadowmaps)
+[2022.03.16-06.53.22:944][220]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (2.5 MB streaming, 0.5 MB non-streaming), 6 textures
+[2022.03.16-06.53.22:944][220]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 2 textures
+[2022.03.16-06.53.23:567][220]DumpUnbuiltLightIteractions
+[2022.03.16-06.53.23:567][220]Lights with unbuilt interactions: 0
+[2022.03.16-06.53.23:567][220]
+[2022.03.16-06.53.23:567][220]Primitives with unbuilt interactions: 0
+[2022.03.16-06.53.23:643][221]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.16-06.53.23:643][221]MapCheck: New page: BoilerRoom - Mar 15, 2022, 10:53:23 PM
+[2022.03.16-06.53.23:645][221]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.945ms to complete.
+[2022.03.16-06.53.35:926][358]LogSlate: Window 'Message Log' being destroyed
+[2022.03.16-06.53.35:936][358]LogSlate: Window 'Message Log' being destroyed
+[2022.03.16-06.53.38:622][517]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2022.03.16-06.53.50:536][208]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2022.03.16-06.54.49:773][515]MapCheck: New page: Map Check
+[2022.03.16-06.54.49:802][515]Cmd: MAP REBUILD ALLVISIBLE
+[2022.03.16-06.54.49:802][515]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.03.16-06.54.53:343][515]LogWorld: UWorld::CleanupWorld for BoilerRoom, bSessionEnded=true, bCleanupResources=false
+[2022.03.16-06.54.53:456][515]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.03.16-06.54.53:457][515]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.03.16-06.54.53:457][515]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.03.16-06.54.53:458][515]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.03.16-06.54.53:461][515]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.03.16-06.54.53:490][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.03.16-06.54.53:549][515]LogLevel: Display: Export Material TexCoord Scales took 0.052 seconds.
+[2022.03.16-06.54.53:582][515]TextureStreamingBuild: Display: Build Texture Streaming took 0.033 seconds.
+[2022.03.16-06.54.53:608][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.03.16-06.54.53:611][515]LightingResults: New page: Lighting Build - Mar 15, 2022, 10:54:53 PM
+[2022.03.16-06.54.53:632][515]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.16-06.54.53:636][515]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.16-06.54.53:636][515]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.16-06.54.53:637][515]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.16-06.54.53:637][515]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20516
+[2022.03.16-06.54.58:217][515]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.16-06.54.58:220][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.16-06.54.58:220][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.16-06.54.58:220][515]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.16-06.54.58:220][515]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.16-06.54.58:220][515]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.16-06.54.58:465][515]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.03.16-06.54.58:465][515]MapCheck: New page: BoilerRoom - Mar 15, 2022, 10:54:58 PM
+[2022.03.16-06.54.58:465][515]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.03.16-06.54.58:467][515]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.912ms to complete.
+[2022.03.16-06.54.58:472][515]LogEditorBuildUtils: Build time 0:08
+[2022.03.16-06.54.58:654][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.03.16-06.55.13:750][560]Job is a success!
+[2022.03.16-06.55.14:286][561]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2022.03.16-06.55.14:287][561]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.16-06.55.14:287][561]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.03.16-06.55.14:287][561]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.16-06.55.14:287][561]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2022.03.16-06.55.14:287][561]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2022.03.16-06.55.14:287][561]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.03.16-06.55.14:287][561]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.16-06.55.14:287][561]LogVolumetricLightmapImport:          BoilerRoom 			 3 bricks 	 100.0% (Persistent Level)
+[2022.03.16-06.55.14:915][561]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2022.03.16-06.55.14:915][561]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2022.03.16-06.55.14:917][561]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.03.16-06.55.14:917][561]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.16-06.55.14:917][561]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.03.16-06.55.14:917][561]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 512X512)
+[2022.03.16-06.55.14:917][561]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.16-06.55.14:917][561]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 512X512)
+[2022.03.16-06.55.15:110][561]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 256X256)
+[2022.03.16-06.55.15:111][561]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X512)
+[2022.03.16-06.55.15:111][561]Lightmass on DESKTOP-V1PNENV: 15.6 sec total, 580 ms importing, 642 ms setup, 3.43 sec photons, 10.9 sec processing, 0 ms extra exporting [2003/2003 mappings]. Threads: 2:00 min total, 52.5 sec processing.
+[2022.03.16-06.55.15:115][561]LogStaticLightingSystem: BoilerRoom_BuiltData storing lightmap data for 219 meshes in 6 LightmapResourceClusters (36.5 Meshes per cluster).
+[2022.03.16-06.55.15:148][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.16-06.55.15:197][561]LogStaticLightingSystem: Illumination: 21.2 sec (231 ms encoding lightmaps, 160 ms encoding shadowmaps)
+[2022.03.16-06.55.15:197][561]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (2.5 MB streaming, 0.5 MB non-streaming), 6 textures
+[2022.03.16-06.55.15:197][561]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (2.7 MB streaming, 0.3 MB non-streaming), 2 textures
+[2022.03.16-06.55.15:241][561]DumpUnbuiltLightIteractions
+[2022.03.16-06.55.15:241][561]Lights with unbuilt interactions: 0
+[2022.03.16-06.55.15:241][561]
+[2022.03.16-06.55.15:241][561]Primitives with unbuilt interactions: 0
+[2022.03.16-06.55.15:390][562]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.16-06.55.15:390][562]MapCheck: New page: BoilerRoom - Mar 15, 2022, 10:55:15 PM
+[2022.03.16-06.55.15:399][562]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.514ms to complete.
+[2022.03.16-06.56.20:694][847]LogSlate: Window 'Message Log' being destroyed
+[2022.03.16-06.56.20:704][847]LogSlate: Window 'Message Log' being destroyed
+[2022.03.16-06.56.33:640][612]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.16-06.56.33:650][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-06.56.33:650][612]PIE: New page: PIE session: BoilerRoom (Mar 15, 2022, 10:56:33 PM)
+[2022.03.16-06.56.33:650][612]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BoilerRoom
+[2022.03.16-06.56.33:738][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087795s)
+[2022.03.16-06.56.33:739][612]LogAIModule: Creating AISystem for world BoilerRoom
+[2022.03.16-06.56.33:739][612]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2022.03.16-06.56.33:739][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoilerRoom.BoilerRoom to /Game/UEDPIE_0_BoilerRoom.BoilerRoom (0.089358s)
+[2022.03.16-06.56.33:765][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.03.16-06.56.33:769][612]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.03.16-06.56.33:769][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-06.56.33:769][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-06.56.33:769][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-06.56.33:769][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-06.56.33:769][612]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.16-06.56.33:769][612]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.16-06.56.33:769][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.16-06.56.33:769][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-06.56.33:770][612]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.16-06.56.33:770][612]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.16-06.56.33:770][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.16-06.56.33:770][612]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-06.56.33:775][612]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-06.56.33:775][612]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-06.56.33:788][612]LogAudioMixer: Display: Using Audio Device Headphones (Hesh 2 Wireless Stereo)
+[2022.03.16-06.56.33:788][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-06.56.33:788][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-06.56.33:788][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-06.56.33:788][612]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-06.56.33:788][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-06.56.33:789][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-06.56.33:791][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-06.56.33:791][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-06.56.33:791][612]LogInit: FAudioDevice initialized.
+[2022.03.16-06.56.33:791][612]LogAudio: Display: Audio Device (ID: 34) registered with world 'BoilerRoom'.
+[2022.03.16-06.56.33:806][612]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.16-06.56.33:816][612]LogWorld: Bringing World /Game/UEDPIE_0_BoilerRoom.BoilerRoom up for play (max tick rate 60) at 2022.03.16-02.56.33
+[2022.03.16-06.56.33:816][612]LogWorld: Bringing up level for play took: 0.009488
+[2022.03.16-06.56.33:820][612]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.03.16-06.56.33:822][612]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.16-06.56.33:824][612]PIE: Server logged in
+[2022.03.16-06.56.33:825][612]PIE: Play in editor total start time 0.177 seconds.
+[2022.03.16-06.56.33:848][612]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.16-06.56.57:781][486]LogScript: Warning: Accessed None trying to read property Flashlight_2_EdGraph_7_RefProperty
+	BoilerRoom_C /Game/UEDPIE_0_BoilerRoom.BoilerRoom:PersistentLevel.BoilerRoom_C_8
+	Function /Game/BoilerRoom.BoilerRoom_C:TurnOffLights:01EE
+[2022.03.16-06.56.57:783][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Flashlight_2_EdGraph_7_RefProperty". Blueprint:  BoilerRoom Function:  Turn Off Lights Graph:  TurnOffLights Node:  Set Visibility
+[2022.03.16-06.56.57:783][486]LogScript: Warning: Accessed None
+	BoilerRoom_C /Game/UEDPIE_0_BoilerRoom.BoilerRoom:PersistentLevel.BoilerRoom_C_8
+	Function /Game/BoilerRoom.BoilerRoom_C:TurnOffLights:0203
+[2022.03.16-06.56.57:783][486]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BoilerRoom Function:  Turn Off Lights Graph:  TurnOffLights Node:  Set Visibility
+[2022.03.16-06.57.33:595][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-06.57.33:595][595]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BoilerRoom
+[2022.03.16-06.57.33:597][595]LogWorld: UWorld::CleanupWorld for BoilerRoom, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-06.57.33:601][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-06.57.33:620][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-06.57.33:658][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-06.57.33:691][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-06.57.33:692][595]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.16-06.57.33:692][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-06.57.33:693][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-06.57.33:701][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.16-06.57.33:865][596]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.03.16-06.57.40:231][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-06.57.50:722][547]Cmd: DELETE
+[2022.03.16-06.57.50:722][547]Cmd: ACTOR DELETE
+[2022.03.16-06.57.50:755][547]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.03.16-06.57.50:787][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.16-06.57.50:792][547]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2022.03.16-06.59.23:834][937]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2022.03.16-06.59.40:249][893]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2022.03.16-06.59.43:070][ 45]MapCheck: New page: Map Check
+[2022.03.16-06.59.43:119][ 45]Cmd: MAP REBUILD ALLVISIBLE
+[2022.03.16-06.59.43:120][ 45]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.03.16-06.59.46:627][ 45]LogWorld: UWorld::CleanupWorld for BoilerRoom, bSessionEnded=true, bCleanupResources=false
+[2022.03.16-06.59.46:743][ 45]LogEditorBuildUtils: Build time 0:03
+[2022.03.16-06.59.48:740][152]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight19)
+[2022.03.16-06.59.53:462][411]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight20)
+[2022.03.16-06.59.56:153][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-06.59.56:529][576]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2022.03.16-06.59.58:601][678]MapCheck: New page: Map Check
+[2022.03.16-06.59.58:628][678]Cmd: MAP REBUILD ALLVISIBLE
+[2022.03.16-06.59.58:629][678]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.03.16-07.00.02:183][678]LogWorld: UWorld::CleanupWorld for BoilerRoom, bSessionEnded=true, bCleanupResources=false
+[2022.03.16-07.00.02:300][678]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.03.16-07.00.02:300][678]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.03.16-07.00.02:300][678]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.03.16-07.00.02:302][678]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.03.16-07.00.02:305][678]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.03.16-07.00.02:335][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.03.16-07.00.02:407][678]LogLevel: Display: Export Material TexCoord Scales took 0.060 seconds.
+[2022.03.16-07.00.02:439][678]TextureStreamingBuild: Display: Build Texture Streaming took 0.033 seconds.
+[2022.03.16-07.00.02:463][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.16-07.00.02:466][678]LightingResults: New page: Lighting Build - Mar 15, 2022, 11:00:02 PM
+[2022.03.16-07.00.02:487][678]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.16-07.00.02:490][678]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.16-07.00.02:490][678]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.16-07.00.02:491][678]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.16-07.00.02:491][678]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20516
+[2022.03.16-07.00.07:080][678]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.03.16-07.00.07:087][678]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.16-07.00.07:087][678]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.16-07.00.07:088][678]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.16-07.00.07:088][678]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.16-07.00.07:088][678]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.16-07.00.07:508][678]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.03.16-07.00.07:508][678]MapCheck: New page: BoilerRoom - Mar 15, 2022, 11:00:07 PM
+[2022.03.16-07.00.07:509][678]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.03.16-07.00.07:510][678]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.002ms to complete.
+[2022.03.16-07.00.07:513][678]LogEditorBuildUtils: Build time 0:08
+[2022.03.16-07.00.07:703][679]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.16-07.00.07:703][679]LogShaderCompilers: Display: Total job queries 178, among them cache hits 63 (35.39%)
+[2022.03.16-07.00.07:703][679]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 61 distinct outputs (54.46%)
+[2022.03.16-07.00.07:703][679]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.03.16-07.00.07:703][679]LogShaderCompilers: Display: ================================================
+[2022.03.16-07.00.08:117][680]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2022.03.16-07.00.20:640][717]Job is a success!
+[2022.03.16-07.00.21:529][718]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2022.03.16-07.00.21:529][718]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.16-07.00.21:529][718]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.03.16-07.00.21:529][718]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.16-07.00.21:529][718]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2022.03.16-07.00.21:529][718]LogVolumetricLightmapImport:          1: 33.3% covering 3.1% of volume
+[2022.03.16-07.00.21:529][718]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2022.03.16-07.00.21:529][718]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.16-07.00.21:529][718]LogVolumetricLightmapImport:          BoilerRoom 			 6 bricks 	 100.0% (Persistent Level)
+[2022.03.16-07.00.22:146][718]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2022.03.16-07.00.22:146][718]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2022.03.16-07.00.22:146][718]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.03.16-07.00.22:147][718]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.16-07.00.22:147][718]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.03.16-07.00.22:147][718]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 512X512)
+[2022.03.16-07.00.22:147][718]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.16-07.00.22:147][718]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 512X512)
+[2022.03.16-07.00.22:233][718]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 256X256)
+[2022.03.16-07.00.22:233][718]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X128)
+[2022.03.16-07.00.22:233][718]Lightmass on DESKTOP-V1PNENV: 13.2 sec total, 573 ms importing, 608 ms setup, 3.54 sec photons, 8.51 sec processing, 0 ms extra exporting [2003/2003 mappings]. Threads: 1:33 min total, 39.8 sec processing.
+[2022.03.16-07.00.22:238][718]LogStaticLightingSystem: BoilerRoom_BuiltData storing lightmap data for 219 meshes in 6 LightmapResourceClusters (36.5 Meshes per cluster).
+[2022.03.16-07.00.22:276][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.03.16-07.00.22:319][718]LogStaticLightingSystem: Illumination: 19.5 sec (223 ms encoding lightmaps, 47 ms encoding shadowmaps)
+[2022.03.16-07.00.22:319][718]LogStaticLightingSystem: Lightmap texture memory:  3.0 MB (2.5 MB streaming, 0.5 MB non-streaming), 6 textures
+[2022.03.16-07.00.22:319][718]LogStaticLightingSystem: Shadowmap texture memory: 1.0 MB (0.7 MB streaming, 0.3 MB non-streaming), 2 textures
+[2022.03.16-07.00.32:122][718]DumpUnbuiltLightIteractions
+[2022.03.16-07.00.32:122][718]Lights with unbuilt interactions: 0
+[2022.03.16-07.00.32:122][718]
+[2022.03.16-07.00.32:122][718]Primitives with unbuilt interactions: 0
+[2022.03.16-07.00.32:246][719]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.16-07.00.32:246][719]MapCheck: New page: BoilerRoom - Mar 15, 2022, 11:00:32 PM
+[2022.03.16-07.00.32:248][719]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.26ms to complete.
+[2022.03.16-07.00.34:067][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.03.16-07.00.34:434][724]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/BoilerRoom_Auto16FDB869E408AC307954452ABD85082F0.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/Autosaves/Game/BoilerRoom_Auto1.umap'
+[2022.03.16-07.00.34:436][724]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BoilerRoom' took 0.422
+[2022.03.16-07.00.34:436][724]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.422
+[2022.03.16-07.01.46:938][  0]LogSlate: Window 'Message Log' being destroyed
+[2022.03.16-07.01.46:949][  0]LogSlate: Window 'Message Log' being destroyed
+[2022.03.16-07.01.56:953][306]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.16-07.02.49:750][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.03.16-07.02.50:106][219]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/BoilerRoom4F997BD84E707D75DAF83389057DE3C6.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BoilerRoom.umap'
+[2022.03.16-07.02.50:130][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BoilerRoom_BuiltData" FILE="../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BoilerRoom_BuiltData.uasset" SILENT=true
+[2022.03.16-07.02.50:256][219]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/BoilerRoom_BuiltData9DB1D6424A32E1E7DF118B9C065E9DAD.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BoilerRoom_BuiltData.uasset'
+[2022.03.16-07.02.50:282][219]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.16-07.02.50:282][219]LogContentValidation: Display: Validating World /Game/BoilerRoom.BoilerRoom
+[2022.03.16-07.02.50:282][219]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BoilerRoom_BuiltData.BoilerRoom_BuiltData
+[2022.03.16-07.02.51:956][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.16-07.02.52:301][313]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/BoilerRoom5EAAE1644318AED502E4298A9279D505.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BoilerRoom.umap'
+[2022.03.16-07.02.52:319][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BoilerRoom_BuiltData" FILE="../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BoilerRoom_BuiltData.uasset" SILENT=true
+[2022.03.16-07.02.52:446][313]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/BoilerRoom_BuiltData098A8B2C457E58F321FC39A469C3DD84.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BoilerRoom_BuiltData.uasset'
+[2022.03.16-07.02.52:469][313]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.16-07.02.52:469][313]LogContentValidation: Display: Validating World /Game/BoilerRoom.BoilerRoom
+[2022.03.16-07.02.52:469][313]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BoilerRoom_BuiltData.BoilerRoom_BuiltData
+[2022.03.16-07.02.55:257][477]BlueprintLog: New page: Compile Flashlight
+[2022.03.16-07.02.55:318][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.03.16-07.02.55:997][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flashlight" FILE="../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/Flashlight.uasset" SILENT=true
+[2022.03.16-07.02.56:016][510]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/Flashlight06475A4C4D6707422B31779FC06F9ADC.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/Flashlight.uasset'
+[2022.03.16-07.02.56:039][510]AssetCheck: New page: Asset Save: Flashlight
+[2022.03.16-07.02.56:039][510]LogContentValidation: Display: Validating Blueprint /Game/Flashlight.Flashlight
+[2022.03.16-07.02.56:435][533]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.16-07.02.56:435][533]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.02.56:435][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-07.03.00:508][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.03.16-07.03.02:427][754]LogSlate: Window 'Save Content' being destroyed
+[2022.03.16-07.03.02:523][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.03.16-07.03.02:573][754]LogSavePackage: Moving '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Saved/BreakerRoomB258FBC44A446E2EF1327D96E448547F.tmp' to '../../../../../Users/Maximo/Documents/work and school/CSCI-313/LightsOut/LightsOut/Content/BreakerRoom.umap'
+[2022.03.16-07.03.02:590][754]LogFileHelpers: Saving map 'BreakerRoom' took 0.118
+[2022.03.16-07.03.02:651][754]LogSlate: Window 'LightsOut - Unreal Editor' being destroyed
+[2022.03.16-07.03.02:829][754]AssetCheck: New page: Asset Save: BreakerRoom
+[2022.03.16-07.03.02:829][754]LogContentValidation: Display: Validating World /Game/BreakerRoom.BreakerRoom
+[2022.03.16-07.03.02:831][755]Cmd: QUIT_EDITOR
+[2022.03.16-07.03.02:831][755]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.03.16-07.03.02:835][755]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.16-07.03.03:424][755]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.03.16-07.03.03:425][755]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.03.16-07.03.03:425][755]LogAudio: Display: Audio Device unregistered from world 'BoilerRoom'.
+[2022.03.16-07.03.03:425][755]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.16-07.03.03:426][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-07.03.03:431][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-07.03.03:494][755]LogAudio: Display: Audio Device Manager Shutdown
+[2022.03.16-07.03.03:495][755]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.16-07.03.03:509][755]LogExit: Preparing to exit.
+[2022.03.16-07.03.04:519][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.03.16-07.03.04:743][755]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:747][755]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:751][755]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:755][755]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:759][755]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:762][755]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:767][755]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:770][755]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:775][755]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:779][755]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:783][755]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:787][755]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:792][755]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:796][755]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:927][755]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.16-07.03.04:950][755]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-07.03.04:950][755]LogExit: Editor shut down
+[2022.03.16-07.03.04:953][755]LogExit: Transaction tracking system shut down
+[2022.03.16-07.03.05:533][755]LogExit: Object subsystem successfully closed.
+[2022.03.16-07.03.05:566][755]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.16-07.03.05:566][755]LogShaderCompilers: Display: Total job queries 178, among them cache hits 63 (35.39%)
+[2022.03.16-07.03.05:566][755]LogShaderCompilers: Display: Tracking 112 distinct input hashes that result in 61 distinct outputs (54.46%)
+[2022.03.16-07.03.05:566][755]LogShaderCompilers: Display: RAM used: 0.59 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.03.16-07.03.05:566][755]LogShaderCompilers: Display: ================================================
+[2022.03.16-07.03.05:584][755]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.03.16-07.03.05:688][755]LogModuleManager: Shutting down and abandoning module BlueprintGraph (868)
+[2022.03.16-07.03.05:688][755]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (866)
+[2022.03.16-07.03.05:688][755]LogModuleManager: Shutting down and abandoning module Voice (864)
+[2022.03.16-07.03.05:688][755]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (862)
+[2022.03.16-07.03.05:688][755]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (860)
+[2022.03.16-07.03.05:688][755]LogModuleManager: Shutting down and abandoning module SceneOutliner (858)
+[2022.03.16-07.03.05:688][755]LogModuleManager: Shutting down and abandoning module AddContentDialog (856)
+[2022.03.16-07.03.05:693][755]LogModuleManager: Shutting down and abandoning module WidgetCarousel (855)
+[2022.03.16-07.03.05:693][755]LogModuleManager: Shutting down and abandoning module EditorWidgets (852)
+[2022.03.16-07.03.05:693][755]LogModuleManager: Shutting down and abandoning module StatsViewer (850)
+[2022.03.16-07.03.05:693][755]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (848)
+[2022.03.16-07.03.05:693][755]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (846)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module AutomationWorker (844)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (842)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (840)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module TakeRecorder (839)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (836)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module TakesCore (834)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module OpenXRInput (832)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module GooglePADEditor (830)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (828)
+[2022.03.16-07.03.05:694][755]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (826)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (824)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (822)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (820)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (818)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (816)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (814)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (812)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module WebMMedia (810)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (808)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (806)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module SequenceRecorder (805)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (802)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (800)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (798)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (796)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (794)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (792)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (790)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (788)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (786)
+[2022.03.16-07.03.05:695][755]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (784)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module PlanarCut (782)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module CharacterAI (780)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module TextureAlignMode (778)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module BspMode (776)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module GeometryMode (774)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (772)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module SmartSnapping (770)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module SessionServices (768)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module MeshPaint (766)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (764)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module FoliageEdit (762)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module LandscapeEditor (760)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module MeshPaintMode (758)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (756)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module ActorPickerMode (754)
+[2022.03.16-07.03.05:696][755]LogModuleManager: Shutting down and abandoning module PlacementMode (752)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module ViewportSnapping (750)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module ViewportInteraction (748)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module ClothPainter (746)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (745)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module LogVisualizer (742)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module IntroTutorials (740)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (739)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (736)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (734)
+[2022.03.16-07.03.05:697][755]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (732)
+[2022.03.16-07.03.05:698][755]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (731)
+[2022.03.16-07.03.07:076][755]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (728)
+[2022.03.16-07.03.07:076][755]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (726)
+[2022.03.16-07.03.07:076][755]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (724)
+[2022.03.16-07.03.07:076][755]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (722)
+[2022.03.16-07.03.07:076][755]LogModuleManager: Shutting down and abandoning module TraceInsights (720)
+[2022.03.16-07.03.07:076][755]MemoryProfiler: Shutdown
+[2022.03.16-07.03.07:076][755]NetworkingProfiler: Shutdown
+[2022.03.16-07.03.07:077][755]LoadingProfiler: Shutdown
+[2022.03.16-07.03.07:077][755]TimingProfiler: Shutdown
+[2022.03.16-07.03.07:077][755]LogModuleManager: Shutting down and abandoning module TraceServices (719)
+[2022.03.16-07.03.07:078][755]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (716)
+[2022.03.16-07.03.07:078][755]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (714)
+[2022.03.16-07.03.07:078][755]LogModuleManager: Shutting down and abandoning module InputBindingEditor (712)
+[2022.03.16-07.03.07:078][755]LogModuleManager: Shutting down and abandoning module MergeActors (710)
+[2022.03.16-07.03.07:078][755]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (708)
+[2022.03.16-07.03.07:078][755]LogModuleManager: Shutting down and abandoning module LocalizationService (707)
+[2022.03.16-07.03.07:078][755]LogModuleManager: Shutting down and abandoning module HardwareTargeting (704)
+[2022.03.16-07.03.07:078][755]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (702)
+[2022.03.16-07.03.07:078][755]LogModuleManager: Shutting down and abandoning module UndoHistory (700)
+[2022.03.16-07.03.07:079][755]LogModuleManager: Shutting down and abandoning module XmlParser (698)
+[2022.03.16-07.03.07:079][755]LogModuleManager: Shutting down and abandoning module Blutility (696)
+[2022.03.16-07.03.07:079][755]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (694)
+[2022.03.16-07.03.07:079][755]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (693)
+[2022.03.16-07.03.07:081][755]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (690)
+[2022.03.16-07.03.07:081][755]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (689)
+[2022.03.16-07.03.07:082][755]LogModuleManager: Shutting down and abandoning module SettingsEditor (686)
+[2022.03.16-07.03.07:082][755]LogModuleManager: Shutting down and abandoning module ProjectLauncher (684)
+[2022.03.16-07.03.07:082][755]LogModuleManager: Shutting down and abandoning module SessionFrontend (682)
+[2022.03.16-07.03.07:082][755]LogModuleManager: Shutting down and abandoning module ProfilerClient (680)
+[2022.03.16-07.03.07:082][755]LogModuleManager: Shutting down and abandoning module DeviceManager (678)
+[2022.03.16-07.03.07:083][755]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (677)
+[2022.03.16-07.03.07:115][755]LogModuleManager: Shutting down and abandoning module AutomationController (674)
+[2022.03.16-07.03.07:115][755]LogModuleManager: Shutting down and abandoning module AutomationWindow (672)
+[2022.03.16-07.03.07:115][755]LogModuleManager: Shutting down and abandoning module Layers (670)
+[2022.03.16-07.03.07:115][755]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (668)
+[2022.03.16-07.03.07:115][755]LogModuleManager: Shutting down and abandoning module DetailCustomizations (666)
+[2022.03.16-07.03.07:116][755]LogModuleManager: Shutting down and abandoning module PackagesDialog (664)
+[2022.03.16-07.03.07:117][755]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (662)
+[2022.03.16-07.03.07:117][755]LogModuleManager: Shutting down and abandoning module Persona (660)
+[2022.03.16-07.03.07:117][755]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (659)
+[2022.03.16-07.03.07:117][755]LogModuleManager: Shutting down and abandoning module AnimGraph (657)
+[2022.03.16-07.03.07:117][755]LogModuleManager: Shutting down and abandoning module Kismet (654)
+[2022.03.16-07.03.07:169][755]LogModuleManager: Shutting down and abandoning module KismetWidgets (653)
+[2022.03.16-07.03.07:170][755]LogModuleManager: Shutting down and abandoning module GraphEditor (650)
+[2022.03.16-07.03.07:170][755]LogModuleManager: Shutting down and abandoning module StructViewer (648)
+[2022.03.16-07.03.07:170][755]LogModuleManager: Shutting down and abandoning module ClassViewer (646)
+[2022.03.16-07.03.07:171][755]LogModuleManager: Shutting down and abandoning module Toolbox (644)
+[2022.03.16-07.03.07:171][755]LogModuleManager: Shutting down and abandoning module ModuleUI (642)
+[2022.03.16-07.03.07:171][755]LogModuleManager: Shutting down and abandoning module OutputLog (640)
+[2022.03.16-07.03.07:181][755]LogModuleManager: Shutting down and abandoning module GammaUI (638)
+[2022.03.16-07.03.07:182][755]LogModuleManager: Shutting down and abandoning module Documentation (636)
+[2022.03.16-07.03.07:183][755]LogModuleManager: Shutting down and abandoning module LiveCoding (634)
+[2022.03.16-07.03.07:183][755]LogModuleManager: Shutting down and abandoning module LevelSequence (632)
+[2022.03.16-07.03.07:183][755]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (630)
+[2022.03.16-07.03.07:183][755]LogModuleManager: Shutting down and abandoning module MovieScene (628)
+[2022.03.16-07.03.07:183][755]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (626)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module LauncherPlatform (624)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module AnalyticsET (622)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module PortalServices (620)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module PortalRpc (618)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module MessagingRpc (616)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (614)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module AudioMixerCore (613)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module AIModule (610)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module GameplayDebugger (609)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module AITestSuite (607)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module NavigationSystem (605)
+[2022.03.16-07.03.07:184][755]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (602)
+[2022.03.16-07.03.07:203][755]LogModuleManager: Shutting down and abandoning module ProfilerService (600)
+[2022.03.16-07.03.07:338][755]LogModuleManager: Shutting down and abandoning module TaskGraph (598)
+[2022.03.16-07.03.07:338][755]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (596)
+[2022.03.16-07.03.07:338][755]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (594)
+[2022.03.16-07.03.07:338][755]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (592)
+[2022.03.16-07.03.07:338][755]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (590)
+[2022.03.16-07.03.07:339][755]LogModuleManager: Shutting down and abandoning module CollectionManager (589)
+[2022.03.16-07.03.07:339][755]LogModuleManager: Shutting down and abandoning module SynthesisEditor (586)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module Synthesis (584)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module ResonanceAudio (582)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module TakeSequencer (576)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module TakeMovieScene (574)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module OpenXREditor (572)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (570)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module ScreenshotTools (568)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module GooglePAD (566)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module EditableMesh (564)
+[2022.03.16-07.03.07:340][755]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (562)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module CableComponent (560)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module AudioCapture (558)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (557)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module AssetTags (554)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (552)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (550)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module AppleImageUtils (548)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module AndroidPermission (546)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (544)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (542)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module TemplateSequence (540)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (538)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module MediaCompositing (536)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module ImgMedia (534)
+[2022.03.16-07.03.07:341][755]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (532)
+[2022.03.16-07.03.07:342][755]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (530)
+[2022.03.16-07.03.07:342][755]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (528)
+[2022.03.16-07.03.07:342][755]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (526)
+[2022.03.16-07.03.07:342][755]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (524)
+[2022.03.16-07.03.07:342][755]LogOpenImageDenoise: OIDN shutting down
+[2022.03.16-07.03.07:342][755]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (522)
+[2022.03.16-07.03.07:342][755]LogModuleManager: Shutting down and abandoning module MotoSynth (520)
+[2022.03.16-07.03.07:342][755]LogModuleManager: Shutting down and abandoning module MeshConversion (518)
+[2022.03.16-07.03.07:342][755]LogModuleManager: Shutting down and abandoning module DynamicMesh (516)
+[2022.03.16-07.03.07:342][755]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (514)
+[2022.03.16-07.03.07:343][755]LogModuleManager: Shutting down and abandoning module GeometricObjects (512)
+[2022.03.16-07.03.07:343][755]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (510)
+[2022.03.16-07.03.07:343][755]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (509)
+[2022.03.16-07.03.07:343][755]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (506)
+[2022.03.16-07.03.07:343][755]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (504)
+[2022.03.16-07.03.07:343][755]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (502)
+[2022.03.16-07.03.07:343][755]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (500)
+[2022.03.16-07.03.07:343][755]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (498)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (496)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module AlembicImporter (494)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module AlembicLibrary (493)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module GeometryCache (492)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (491)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module FractureEditor (486)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module ChaosNiagara (484)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (483)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (480)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module BackChannel (478)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (476)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module AutomationUtils (474)
+[2022.03.16-07.03.07:344][755]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (472)
+[2022.03.16-07.03.07:345][755]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (470)
+[2022.03.16-07.03.07:345][755]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (468)
+[2022.03.16-07.03.07:345][755]LogModuleManager: Shutting down and abandoning module PluginBrowser (466)
+[2022.03.16-07.03.07:345][755]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (464)
+[2022.03.16-07.03.07:345][755]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (462)
+[2022.03.16-07.03.07:345][755]LogModuleManager: Shutting down and abandoning module CurveEditorTools (460)
+[2022.03.16-07.03.07:346][755]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (458)
+[2022.03.16-07.03.07:346][755]LogModuleManager: Shutting down and abandoning module CryptoKeys (456)
+[2022.03.16-07.03.07:346][755]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (454)
+[2022.03.16-07.03.07:346][755]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (452)
+[2022.03.16-07.03.07:346][755]LogModuleManager: Shutting down and abandoning module UObjectPlugin (450)
+[2022.03.16-07.03.07:346][755]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (448)
+[2022.03.16-07.03.07:346][755]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (446)
+[2022.03.16-07.03.07:346][755]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (444)
+[2022.03.16-07.03.07:346][755]LogModuleManager: Shutting down and abandoning module PluginUtils (442)
+[2022.03.16-07.03.07:347][755]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (440)
+[2022.03.16-07.03.07:347][755]LogModuleManager: Shutting down and abandoning module GitSourceControl (438)
+[2022.03.16-07.03.07:347][755]LogModuleManager: Shutting down and abandoning module SourceControl (437)
+[2022.03.16-07.03.07:349][755]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (434)
+[2022.03.16-07.03.07:350][755]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (432)
+[2022.03.16-07.03.07:350][755]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (430)
+[2022.03.16-07.03.07:350][755]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (428)
+[2022.03.16-07.03.07:350][755]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (426)
+[2022.03.16-07.03.07:350][755]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (424)
+[2022.03.16-07.03.07:350][755]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (422)
+[2022.03.16-07.03.07:350][755]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (420)
+[2022.03.16-07.03.07:350][755]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (418)
+[2022.03.16-07.03.07:350][755]LogModuleManager: Shutting down and abandoning module LiveLink (416)
+[2022.03.16-07.03.07:893][755]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (414)
+[2022.03.16-07.03.07:893][755]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (412)
+[2022.03.16-07.03.07:893][755]LogModuleManager: Shutting down and abandoning module Paper2DEditor (410)
+[2022.03.16-07.03.07:893][755]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (408)
+[2022.03.16-07.03.07:894][755]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (406)
+[2022.03.16-07.03.07:894][755]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.03.16-07.03.07:894][755]LogModuleManager: Shutting down and abandoning module SoundFields (402)
+[2022.03.16-07.03.07:894][755]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (400)
+[2022.03.16-07.03.07:894][755]LogModuleManager: Shutting down and abandoning module SignificanceManager (398)
+[2022.03.16-07.03.07:894][755]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (396)
+[2022.03.16-07.03.07:895][755]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (392)
+[2022.03.16-07.03.07:895][755]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (390)
+[2022.03.16-07.03.07:895][755]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (388)
+[2022.03.16-07.03.07:895][755]LogModuleManager: Shutting down and abandoning module ActorSequence (386)
+[2022.03.16-07.03.07:895][755]LogModuleManager: Shutting down and abandoning module UdpMessaging (384)
+[2022.03.16-07.03.08:007][755]LogModuleManager: Shutting down and abandoning module TcpMessaging (382)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (380)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (378)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (376)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (374)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (372)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (370)
+[2022.03.16-07.03.08:109][755]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (368)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (366)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (364)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (362)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapController (360)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (358)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module MagicLeapAR (356)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (354)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (352)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module Niagara (350)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module SignalProcessing (349)
+[2022.03.16-07.03.08:109][755]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2022.03.16-07.03.08:110][755]LogModuleManager: Shutting down and abandoning module NiagaraCore (344)
+[2022.03.16-07.03.08:110][755]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (342)
+[2022.03.16-07.03.08:110][755]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (340)
+[2022.03.16-07.03.08:110][755]LogModuleManager: Shutting down and abandoning module FacialAnimation (338)
+[2022.03.16-07.03.08:110][755]LogModuleManager: Shutting down and abandoning module DataValidation (336)
+[2022.03.16-07.03.08:110][755]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2022.03.16-07.03.08:110][755]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2022.03.16-07.03.08:113][755]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2022.03.16-07.03.08:113][755]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2022.03.16-07.03.08:114][755]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2022.03.16-07.03.08:114][755]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2022.03.16-07.03.08:114][755]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2022.03.16-07.03.08:114][755]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2022.03.16-07.03.08:115][755]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2022.03.16-07.03.08:115][755]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2022.03.16-07.03.08:115][755]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (314)
+[2022.03.16-07.03.08:115][755]LogModuleManager: Shutting down and abandoning module GameplayCameras (312)
+[2022.03.16-07.03.08:115][755]LogModuleManager: Shutting down and abandoning module AnimationSharing (310)
+[2022.03.16-07.03.08:115][755]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (308)
+[2022.03.16-07.03.08:115][755]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (306)
+[2022.03.16-07.03.08:115][755]LogModuleManager: Shutting down and abandoning module Paper2D (304)
+[2022.03.16-07.03.08:115][755]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (302)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (300)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (298)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module PacketHandler (296)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (294)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (292)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module MediaAssets (290)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module Overlay (288)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module OverlayEditor (287)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module VREditor (284)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module StringTableEditor (282)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (280)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (278)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module FunctionalTesting (276)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (274)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (273)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module UMG (270)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module UMGEditor (269)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module MessageLog (267)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module SlateReflector (262)
+[2022.03.16-07.03.08:153][755]LogModuleManager: Shutting down and abandoning module Slate (260)
+[2022.03.16-07.03.08:154][755]LogModuleManager: Shutting down and abandoning module SlateCore (258)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (256)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module UnrealEd (254)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module MRMesh (252)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (250)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (248)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module XAudio2 (246)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module Networking (244)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module Core (242)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module MaterialEditor (240)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module MovieSceneTools (238)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module CurveEditor (237)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module Sequencer (235)
+[2022.03.16-07.03.08:155][755]LogModuleManager: Shutting down and abandoning module EditorStyle (234)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module KismetCompiler (230)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module MeshBuilder (228)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module MeshUtilities (226)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (225)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (224)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (223)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (221)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (219)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (217)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module MaterialBaking (213)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (208)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module DerivedDataCache (206)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module TargetPlatform (204)
+[2022.03.16-07.03.08:158][755]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (203)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (201)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (199)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (197)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (193)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (191)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (189)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (187)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (185)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (183)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (181)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module ImageWrapper (180)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (177)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (175)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (171)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (169)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (165)
+[2022.03.16-07.03.08:159][755]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (163)
+[2022.03.16-07.03.08:167][755]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (161)
+[2022.03.16-07.03.08:167][755]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (159)
+[2022.03.16-07.03.08:167][755]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (157)
+[2022.03.16-07.03.08:167][755]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (155)
+[2022.03.16-07.03.08:167][755]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (153)
+[2022.03.16-07.03.08:180][755]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (151)
+[2022.03.16-07.03.08:180][755]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (149)
+[2022.03.16-07.03.08:180][755]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (147)
+[2022.03.16-07.03.08:180][755]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (145)
+[2022.03.16-07.03.08:180][755]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (143)
+[2022.03.16-07.03.08:180][755]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (141)
+[2022.03.16-07.03.08:180][755]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (139)
+[2022.03.16-07.03.08:180][755]LogModuleManager: Shutting down and abandoning module Messaging (137)
+[2022.03.16-07.03.08:180][755]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (135)
+[2022.03.16-07.03.08:186][755]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (133)
+[2022.03.16-07.03.08:212][755]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (131)
+[2022.03.16-07.03.08:212][755]LogModuleManager: Shutting down and abandoning module D3D11RHI (128)
+[2022.03.16-07.03.08:212][755]LogModuleManager: Shutting down and abandoning module InputCore (126)
+[2022.03.16-07.03.08:212][755]LogModuleManager: Shutting down and abandoning module Settings (124)
+[2022.03.16-07.03.08:212][755]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (122)
+[2022.03.16-07.03.08:213][755]LogModuleManager: Shutting down and abandoning module PhysXCooking (120)
+[2022.03.16-07.03.08:213][755]LogModuleManager: Shutting down and abandoning module Chaos (118)
+[2022.03.16-07.03.08:213][755]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.03.16-07.03.08:213][755]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.03.16-07.03.08:213][755]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.03.16-07.03.08:213][755]LogModuleManager: Shutting down and abandoning module OculusOpenXRHMD (110)
+[2022.03.16-07.03.08:214][755]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.03.16-07.03.08:214][755]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.03.16-07.03.08:215][755]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.16-07.03.08:216][755]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.03.16-07.03.08:216][755]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.03.16-07.03.08:216][755]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.03.16-07.03.08:216][755]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.03.16-07.03.08:216][755]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.03.16-07.03.08:216][755]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.03.16-07.03.08:216][755]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (94)
+[2022.03.16-07.03.08:217][755]LogModuleManager: Shutting down and abandoning module XMPP (89)
+[2022.03.16-07.03.08:217][755]LogModuleManager: Shutting down and abandoning module WebSockets (88)
+[2022.03.16-07.03.08:243][755]LogModuleManager: Shutting down and abandoning module HTTP (85)
+[2022.03.16-07.03.08:243][755]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.03.16-07.03.08:243][755]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF07916C2-4EAD-39D4-9864-998760CF7131%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=08dddb534283c197bf5b7792a4e2c610%7C9f9ecd2ff39e4cfd9f46e69b8cbc0966%7C1bd42b1e-427e-4dec-8040-9b28b808ae65&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.03.16-07.03.08:243][755]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.03.16-07.03.08:274][755]LogModuleManager: Shutting down and abandoning module SSL (84)
+[2022.03.16-07.03.08:276][755]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2022.03.16-07.03.08:276][755]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.03.16-07.03.08:276][755]LogModuleManager: Shutting down and abandoning module MLSDK (74)
+[2022.03.16-07.03.08:276][755]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.03.16-07.03.08:280][755]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.03.16-07.03.08:282][755]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.03.16-07.03.08:283][755]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.03.16-07.03.08:283][755]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.03.16-07.03.08:283][755]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.03.16-07.03.08:283][755]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.03.16-07.03.08:283][755]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.03.16-07.03.08:283][755]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.03.16-07.03.08:283][755]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.03.16-07.03.08:283][755]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.03.16-07.03.08:284][755]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.03.16-07.03.08:284][755]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.03.16-07.03.08:284][755]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.03.16-07.03.08:284][755]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.03.16-07.03.08:284][755]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.03.16-07.03.08:284][755]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.03.16-07.03.08:284][755]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.03.16-07.03.08:284][755]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.03.16-07.03.08:285][755]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.03.16-07.03.08:285][755]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.03.16-07.03.08:286][755]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.03.16-07.03.08:286][755]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.03.16-07.03.08:286][755]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.03.16-07.03.08:286][755]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.03.16-07.03.08:286][755]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.03.16-07.03.08:293][755]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.03.16-07.03.08:293][755]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.03.16-07.03.08:294][755]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.03.16-07.03.08:294][755]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.03.16-07.03.08:294][755]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.03.16-07.03.08:294][755]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.03.16-07.03.08:294][755]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.03.16-07.03.08:294][755]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.03.16-07.03.08:294][755]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.03.16-07.03.08:294][755]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.03.16-07.03.08:294][755]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.03.16-07.03.08:320][755]LogD3D11RHI: Shutdown
+[2022.03.16-07.03.08:320][755]LogD3D11RHI: CleanupD3DDevice
+[2022.03.16-07.03.08:330][755]LogExit: Exiting.
+[2022.03.16-07.03.08:342][755]Log file closed, 03/16/22 03:03:08
